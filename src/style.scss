@@ -1,0 +1,14 @@
+$dark: #3e3e3eff;
+$light: #fefefeff;
+
+body {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: $dark;
+  color: $light;
+}
+
+a {
+  color: $light;
+}
