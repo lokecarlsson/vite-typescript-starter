@@ -1,7 +1,7 @@
 {
-  "name": "web-starter",
+  "name": "vite-typescript-starter",
   "description": "Simple web starter project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
