@@ -4,7 +4,7 @@ A simple web starter project
 
 ## Demo
 
-[https://web.loke.dev](https://web.loke.dev)
+[https://vite-typescript-starter.loke.dev](https://vite-typescript-starter.loke.dev)
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone the repo
 
 ```
-git clone git@github.com:lokecarlsson/web-starter.git
+git clone git@github.com:lokecarlsson/vite-typescript-starter.git
 ```
 
 Install dependencies
@@ -39,4 +39,4 @@ yarn dev
 
 ## Deployment
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lokecarlsson/web-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lokecarlsson/vite-typescript-starter)
